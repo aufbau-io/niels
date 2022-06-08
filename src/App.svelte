@@ -26,7 +26,7 @@
     <div class="grey body__left">
       <h3>wip</h3>
       <!--p>die natur • pdx</p-->
-      <p>conversations • essay</p>
+      <p>three conversations • essay</p>
       <p>pandora's box • twitter</p>
       <p>signalling dissent • photo essay</p>
       <p>rubik's world • kings college london</p>
