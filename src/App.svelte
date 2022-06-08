@@ -84,6 +84,7 @@
 
   .grey {
     background: #f0f0f0;
+    margin: 3rem 0 3rem 0;
   }
 
   .body__left {
@@ -91,7 +92,6 @@
   }
 
   .body__right {
-    margin: 0.1em;
     text-align: right;
   }
 
