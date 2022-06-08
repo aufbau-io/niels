@@ -34,6 +34,7 @@
       <p>pandora's box • twitter</p>
       <!--p>signalling dissent • photo essay</p-->
       <p>lacking sufficient cause • photo essay</p>
+      <p>conception calculator 2000 • web</p>
       <p>cube world • essay</p>
     </div>
     <div class="body__right">
