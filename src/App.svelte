@@ -9,9 +9,7 @@
     <br />
     <div class="grey">
       <h1>Dan Humphries</h1>
-      <p class="titleMargin">
-        Freelance web engineer • multidisciplinary Artist
-      </p>
+      <p>Freelance web engineer • transdisciplinary Artist</p>
       <p>ldn • pdx</p>
       <p>-</p>
     </div>
@@ -99,7 +97,6 @@
   }
 
   .titleMargin {
-    margin: 0 0.15rem 0 0;
   }
 
   @media (max-width: 800px) {
@@ -118,10 +115,6 @@
 
     .map {
       width: 200%;
-    }
-
-    .titleMargin {
-      margin: 0 0 0 0;
     }
   }
 </style>
