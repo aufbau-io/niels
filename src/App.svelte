@@ -95,6 +95,9 @@
   }
 
   @media (max-width: 800px) {
+    h1 {
+      margin: 1rem 0 3rem 0;
+    }
     .niels {
       width: 100%;
     }
