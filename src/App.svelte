@@ -21,7 +21,7 @@
     <div class="grey body__right">
       <h3>art</h3>
       <p>metamodernism as a service • instagram • 2021</p>
-      <p>vivi (mas + theremin) • bauhaus fm • 2021</p>
+      <p>late nite poetry (vivi, mas, theremin) • bauhaus fm • 2021</p>
       <!--p>london symmetry deli • web • 2021</p-->
       <p>computational soul • bartlett school of architecture • 2022</p>
     </div>
