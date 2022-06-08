@@ -9,7 +9,9 @@
     <br />
     <div class="grey">
       <h1>Dan Humphries</h1>
-      <p>Freelance web engineer • multidisplinary Artist</p>
+      <p>
+        Freelance web engineer • multidisplinary Artist &nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
       <p>ldn • pdx</p>
       <p>-</p>
     </div>
