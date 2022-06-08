@@ -73,7 +73,7 @@
     width: 100%;
     left: 0;
     top: 10rem;
-    transform: translateY(-60%);
+    transform: translateY(-65%);
     z-index: -1;
   }
 
