@@ -9,9 +9,11 @@
     <br />
     <div class="grey">
       <h1>Dan Humphries</h1>
-      <p>Freelance web engineer • multidisplinary Artist</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;ldn • pdx</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;-</p>
+      <p>
+        Freelance web engineer • multidisplinary Artist&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+      <p>ldn • pdx</p>
+      <p>-</p>
     </div>
     <div class="grey body__left">
       <h3>web</h3>
