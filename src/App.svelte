@@ -29,7 +29,8 @@
       <p>three conversations • essay</p>
       <p>pandora's box • twitter</p>
       <p>signalling dissent • photo essay</p>
-      <p>rubik's world • kings college london</p>
+      <p>lacking sufficient cause • photo essay</p>
+      <p>cube world • essay</p>
     </div>
     <div class="body__right">
       <h3>contact</h3>
