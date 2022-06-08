@@ -15,6 +15,7 @@
     </div>
     <div class="grey body__left">
       <h3>web</h3>
+      <p>aufbau io • web engineering • 2021 - 2022</p>
       <p>hedron hackerspace • web • 2022</p>
     </div>
     <div class="grey body__right">
