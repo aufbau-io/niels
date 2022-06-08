@@ -30,7 +30,7 @@
       <!--p>die natur • pdx</p-->
       <p>three conversations • essay</p>
       <p>pandora's box • twitter</p>
-      <p>signalling dissent • photo essay</p>
+      <!--p>signalling dissent • photo essay</p-->
       <p>lacking sufficient cause • photo essay</p>
       <p>cube world • essay</p>
     </div>
