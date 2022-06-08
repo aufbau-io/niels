@@ -84,7 +84,7 @@
 
   .grey {
     background: #f0f0f0;
-    margin: 3rem 0 3rem 0;
+    margin: 1rem 0 1rem 0;
   }
 
   .body__left {
@@ -99,6 +99,12 @@
     h1 {
       margin: 1rem 0 3rem 0;
     }
+
+    .grey {
+      background: #f0f0f0;
+      margin: 1rem 0 3rem 0;
+    }
+
     .niels {
       width: 100%;
     }
