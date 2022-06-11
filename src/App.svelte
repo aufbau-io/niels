@@ -10,7 +10,7 @@
     <div class="grey">
       <h1>Dan Humphries</h1>
       <p class="titleMargin">
-        Freelance web // app engineer •&nbsp;transdisciplinary Researcher
+        Freelance web engineer •&nbsp;transdisciplinary artist
       </p>
       <p>ldn • pdx</p>
       <p>-</p>
