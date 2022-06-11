@@ -117,7 +117,7 @@
     }
 
     .titleMargin {
-      margin: 3rem 0 0 0;
+      margin: 4rem 0 0 0;
     }
   }
 </style>
