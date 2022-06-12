@@ -10,7 +10,7 @@
     <div class="grey">
       <h1>Dan Humphries</h1>
       <p class="titleMargin">
-        Freelance web engineer •&nbsp;transdisciplinary artist
+        Freelance web engineer •&nbsp;computational artist
       </p>
       <p>ldn • pdx</p>
       <p>-</p>
@@ -96,6 +96,10 @@
 
   .body__right {
     text-align: right;
+  }
+
+  .titleMargin {
+    margin: 0 0.8rem 0 0;
   }
 
   @media (max-width: 800px) {
