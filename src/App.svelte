@@ -17,11 +17,11 @@
     </div>
     <div class="grey body__left">
       <h3>web</h3>
-      <p>aufbau io • web engineering • 2021 - 2022</p>
-      <p>hedron hackerspace • web • 2022</p>
+      <p>sustainable digital design • midnight agency • 2022</p>
+      <p>hedron hackerspace • freelance • 2022</p>
     </div>
     <div class="grey body__right">
-      <h3>art</h3>
+      <h3>art & words</h3>
       <p>metamodernism as a service • instagram • 2021</p>
       <p>late nite poetry (vivi, mas, theremin) • bauhaus fm • 2021</p>
       <!--p>london symmetry deli • web • 2021</p-->
@@ -29,13 +29,14 @@
     </div>
     <div class="grey body__left">
       <h3>wip</h3>
+      <p>dyadic ai creativity • essay</p>
       <!--p>die natur • pdx</p-->
       <p>three conversations • essay</p>
       <p>pandora's box • twitter</p>
       <!--p>signalling dissent • photo essay</p-->
       <p>lacking sufficient cause • photo essay</p>
       <p>conception calculator 2000 • web</p>
-      <p>cube world • essay</p>
+      <p>the cube world • essay</p>
     </div>
     <div class="body__right">
       <h3>contact</h3>
