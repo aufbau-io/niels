@@ -72,6 +72,10 @@
     color: #171717;
   }
 
+  p {
+    font-feature-settings: "ss03" on;
+  }
+
   .map {
     position: absolute;
     width: 100%;
