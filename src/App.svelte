@@ -17,7 +17,7 @@
     </div>
     <div class="grey body__left">
       <h3>web</h3>
-      <p>sustainable digital design • midnight agency • 2022</p>
+      <p>sustainable digital design • midnight & wonderland • 2022</p>
       <p>hedron hackerspace • freelance • 2022</p>
     </div>
     <div class="grey body__right">
@@ -29,14 +29,14 @@
     </div>
     <div class="grey body__left">
       <h3>wip</h3>
-      <p>dyadic ai creativity • essay</p>
+      <p>human-ai dyads • essay</p>
       <!--p>die natur • pdx</p-->
       <p>three conversations • essay</p>
-      <p>pandora's box • twitter</p>
+      <!--p>pandora's box • twitter</p-->
       <!--p>signalling dissent • photo essay</p-->
       <p>lacking sufficient cause • photo essay</p>
       <p>conception calculator 2000 • web</p>
-      <p>the cube world • essay</p>
+      <p>cube world - reconfiguring the sound world • essay</p>
     </div>
     <div class="body__right">
       <h3>contact</h3>
