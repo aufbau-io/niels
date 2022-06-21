@@ -32,11 +32,12 @@
       <p>human-ai dyads • essay</p>
       <!--p>die natur • pdx</p-->
       <p>three conversations • essay</p>
+      <p>conception calculator 2000 • web</p>
       <!--p>pandora's box • twitter</p-->
       <!--p>signalling dissent • photo essay</p-->
-      <p>lacking sufficient cause • photo essay</p>
-      <p>conception calculator 2000 • web</p>
-      <p>cube world - reconfiguring the sound world • essay</p>
+      <!--p>lacking sufficient cause • photo essay</p-->
+      <p>biophilia / anthrophobia • poems</p>
+      <p>reconfiguring Strawson's sound world • essay</p>
     </div>
     <div class="body__right">
       <h3>contact</h3>
