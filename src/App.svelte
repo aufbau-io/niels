@@ -12,7 +12,7 @@
       <p class="titleMargin">
         Freelance web engineer •&nbsp;computational artist
       </p>
-      <p>ldn • pdx</p>
+      <p>ldn • pdx • ykt</p>
       <p>-</p>
     </div>
     <div class="grey body__left">
