@@ -110,7 +110,7 @@
 
   @media (max-width: 800px) {
     h1 {
-      margin: 2rem 0 3rem 0;
+      margin: 1rem 0 3rem 0;
     }
 
     .grey {
@@ -127,7 +127,7 @@
     }
 
     .titleMargin {
-      margin: 4rem 0 0 0;
+      margin: 3rem 0 0 0;
     }
   }
 </style>
