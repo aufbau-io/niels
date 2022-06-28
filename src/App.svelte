@@ -29,7 +29,7 @@
     </div>
     <div class="grey body__left">
       <h3>wip</h3>
-      <p>human-ai dyads • essay</p>
+      <!--p>human-ai dyads • essay</p-->
       <!--p>die natur • pdx</p-->
       <p>three conversations • essay</p>
       <p>conception calculator 2000 • web</p>
@@ -37,6 +37,7 @@
       <!--p>signalling dissent • photo essay</p-->
       <!--p>lacking sufficient cause • photo essay</p-->
       <p>biophilia / anthrophobia • poems</p>
+      <p>iota • computational psychiatry research tool</p>
       <p>reconfiguring Strawson's sound world • essay</p>
     </div>
     <div class="body__right">
