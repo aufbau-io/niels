@@ -31,7 +31,7 @@
       <h3>wip</h3>
       <!--p>human-ai dyads • essay</p-->
       <!--p>die natur • pdx</p-->
-      <p>three conversations • essay</p>
+      <p>conversational jazz • essay</p>
       <p>conception calculator 2000 • web</p>
       <!--p>pandora's box • twitter</p-->
       <!--p>signalling dissent • photo essay</p-->
