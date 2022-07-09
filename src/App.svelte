@@ -37,8 +37,8 @@
       <!--p>signalling dissent • photo essay</p-->
       <!--p>lacking sufficient cause • photo essay</p-->
       <p>biophilia / anthrophobia • poems</p>
-      <p>iota • computational psychiatry research tool</p>
-      <p>reconfiguring Strawson's sound world • essay</p>
+      <p>RARE FISH - BUY NOW • art ?</p>
+      <!--p>reconfiguring Strawson's sound world • essay</p-->
     </div>
     <div class="body__right">
       <h3>contact</h3>
