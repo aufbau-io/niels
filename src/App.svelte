@@ -74,7 +74,8 @@
     color: #171717;
   }
 
-  p {
+  p,
+  a {
     font-feature-settings: "ss03" on;
   }
 
