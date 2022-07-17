@@ -12,7 +12,7 @@
       <p class="titleMargin">
         Freelance web engineer •&nbsp;computational artist
       </p>
-      <p>ldn • pdx</p>
+      <p>ldn • ykt • pdx</p>
       <p>-</p>
     </div>
     <div class="grey body__left">
@@ -22,7 +22,9 @@
     </div>
     <div class="grey body__right">
       <h3>art & words</h3>
-      <p>metamodernism as a service • instagram • 2021</p>
+      <a href="https://www.instagram.com/metamodernism.as.a.service"
+        >metamodernism as a service • instagram • 2021</a
+      >
       <p>late nite poetry (vivi, mas, theremin) • bauhaus fm • 2021</p>
       <!--p>london symmetry deli • web • 2021</p-->
       <p>computational soul • bartlett school of architecture • 2022</p>
@@ -43,8 +45,6 @@
     <div class="body__right">
       <h3>contact</h3>
       <p>
-        <a href="https://www.instagram.com/dn.niels">instagram</a>
-        •
         <a href="mailto: dan@aufbau.io">email</a>
         •
         <a href="https://www.linkedin.com/in/dan-humphries/">linkedin</a>
