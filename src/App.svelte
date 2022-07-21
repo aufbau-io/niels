@@ -18,7 +18,9 @@
     <div class="grey body__left">
       <h3>web</h3>
       <p>sustainable digital design • midnight & wonderland • 2022</p>
-      <p>hedron hackerspace • freelance • 2022</p>
+      <a href="https://www.hhacker.space"
+        >hedron hackerspace • freelance • 2022</a
+      >
     </div>
     <div class="grey body__right">
       <h3>art & words</h3>
